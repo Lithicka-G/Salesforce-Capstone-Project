@@ -95,5 +95,12 @@ Dealer Assignment
 Order Processing
    ↓
 Vehicle Delivery
+```
+
+## 👩‍💻 Author
+
+**Lithicka G**  
+B.E. Computer Science and Design  
+R.M.K. Engineering College
    ↓
 Service Request
