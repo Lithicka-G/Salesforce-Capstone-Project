@@ -8,7 +8,7 @@ The application manages the complete vehicle business workflow, including **vehi
 
 The project is designed to reduce manual processes, improve data accuracy, automate business operations, and provide better visibility into vehicle sales and service activities.
 
-demo link : (https://drive.google.com/file/d/1KWASzmfZuBxdeIeaCt8DbMm4Q1Wspp4l/view?usp=sharing)
+demo link : https://drive.google.com/file/d/1KWASzmfZuBxdeIeaCt8DbMm4Q1Wspp4l/view?usp=sharing
 
 ## 🎯 Objectives
 
